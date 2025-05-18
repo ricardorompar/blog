@@ -14,10 +14,10 @@ tags:
   - life
 # nolastmod: true
 # math: true
-draft: true
+draft: false
 ---
 
-An atom in the universe, a universe of atoms.
+An atom in the universe, a universe of atoms. Where my subtitle comes from.
 
 <!--more-->
 
