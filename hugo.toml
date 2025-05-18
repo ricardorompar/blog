@@ -1,0 +1,37 @@
+baseURL = 'https://blog.ricardorompar.com'
+languageCode = 'en-us'
+theme = "dream"
+title = "Ricardorompar's blog"
+defaultContentLanguage = "en"
+
+[params]
+headerTitle = "Ricardorompar's blog"
+motto = "A universe of atoms, an atom in the universe."
+description = "A documented expression of thoughts and things I learn."
+
+lightTheme = "emerald"
+darkTheme = "forest"
+# Author
+author = "Ricardo Romero"
+
+#Footer
+footerBottomText = "Built with ♥ using <a href='https://gohugo.io/' target='_blank'>Hugo</a> and the <a href='https://github.com/g1eny0ung/hugo-theme-dream' target='_blank'>Dream</a> theme."
+
+siteStartYear = 2025
+
+stickyNav = true
+reorderNavItems = ["about", "search", "github", "posts", "categories", "tags"]
+collapseNavItems = ["posts", "categories", "tags"]
+# noDefaultSummaryCover = true
+showTableOfContents = true
+showSummaryCoverInPost = true
+imageZoomableInPost = true
+showPrevNextPost = true
+
+avatar = "images/lego_avatar_r2.png"
+favicon = "images/favicon.ico"
+
+[params.social]
+twitter = "ricardorompar"
+github = "ricardorompar"
+linkedin = "ricardorompar"

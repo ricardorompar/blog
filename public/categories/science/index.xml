@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on Ricardorompar&#39;s blog</title>
+    <link>http://localhost:1313/categories/science/</link>
+    <description>Recent content in Science on Ricardorompar&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 May 2025 23:25:57 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An atom in the universe, a poem.</title>
+      <link>http://localhost:1313/posts/poem-an-atom/</link>
+      <pubDate>Sun, 18 May 2025 23:25:57 +0200</pubDate>
+      <guid>http://localhost:1313/posts/poem-an-atom/</guid>
+      <description>&lt;p&gt;An atom in the universe, a universe of atoms.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

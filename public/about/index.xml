@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Ricardorompar&#39;s blog</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Ricardorompar&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 May 2025 13:49:11 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Article</title>
+      <link>http://localhost:1313/about/me/</link>
+      <pubDate>Sun, 18 May 2025 22:57:11 +0200</pubDate>
+      <guid>http://localhost:1313/about/me/</guid>
+      <description>&lt;p&gt;Hi there! I&amp;rsquo;m Ricardo&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
