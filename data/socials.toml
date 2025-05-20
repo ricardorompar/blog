@@ -1,0 +1,6 @@
+socials = [
+  { href = "https://github.com/ricardorompar", target="_blank", icon = "logo-github", title = "GitHub" },
+  { href = "https://x.com/ricardorompar", target="_blank", icon = "logo-x", title = "X" },
+  { href = "https://instagram.com/ricardorompar", target="_blank", icon = "logo-instagram", title = "Instagram" },
+  { href = "https://www.linkedin.com/in/ricardorompar", target="_blank", icon = "logo-linkedin", title = "Linkedin" },
+]

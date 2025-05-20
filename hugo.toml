@@ -5,14 +5,16 @@ title = "Ricardorompar's blog"
 defaultContentLanguage = "en"
 
 [params]
+# zenMode = true
 headerTitle = "Ricardorompar's blog"
 motto = "A universe of atoms, an atom in the universe."
 description = "A documented expression of thoughts and things I learn."
 
 lightTheme = "emerald"
-darkTheme = "forest"
+darkTheme = "business"
 # Author
 author = "Ricardo Romero"
+email = "r2@ricardorompar.com"
 
 #Footer
 footerBottomText = "Built with ♥ using <a href='https://gohugo.io/' target='_blank'>Hugo</a> and the <a href='https://github.com/g1eny0ung/hugo-theme-dream' target='_blank'>Dream</a> theme."
@@ -28,10 +30,28 @@ showSummaryCoverInPost = true
 imageZoomableInPost = true
 showPrevNextPost = true
 
-avatar = "images/lego_avatar_r2.png"
-favicon = "images/favicon.ico"
+avatar = "img/lego_avatar_r2.png"
+favicon = "img/favicon.ico"
 
 [params.social]
 twitter = "ricardorompar"
 github = "ricardorompar"
 linkedin = "ricardorompar"
+
+[params.navItems]
+github = { href = "https://github.com/ricardorompar", target = "_blank", icon = "logo-github", title = "GitHub" }
+
+[markup]
+[markup.goldmark.parser]
+wrapStandAloneImageWithinParagraph = false
+[markup.goldmark.parser.attribute]
+block = true
+[markup.goldmark.renderer]
+unsafe = true
+[markup.goldmark.extensions.passthrough]
+enable = true
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [['\[', '\]'], ['$$', '$$']]
+inline = [['\(', '\)'], ['$', '$']]
+[markup.highlight]
+noClasses = false

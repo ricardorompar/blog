@@ -3,17 +3,14 @@ title: An atom in the universe, a poem.
 date: 2025-05-18T23:25:57+02:00
 lastmod: 2025-05-18T23:25:57+02:00
 avatar: /images/lego_avatar_r2.png
-# authorlink: https://ricardorompar.com
 cover: seashore.png
 
 categories:
-  - science
+  - Science
 tags:
-  - ideas
-  - universe
-  - life
-# nolastmod: true
-# math: true
+  - Ideas
+  - Universe
+  - Life
 draft: false
 ---
 
@@ -54,7 +51,7 @@ As part of that lecture in 1955 he merged the depth of his scientific mind with 
 > _Deep in the sea_ \
 > _all molecules repeat_ \
 > _the patterns of one another_ \
-> _the complex new ones are formed._ \
+> _till complex new ones are formed._ \
 > _They make others like themselves_ \
 > _and a new dance starts._
 > 
