@@ -8,6 +8,7 @@ images:
   - steve_macbook.png
   - facetime.jpg
   - houston_problem.jpg
+
 categories:
   - Life
   - Business
@@ -15,13 +16,12 @@ tags:
   - Ideas
   - Problems
   - Business
-
 draft: false
 ---
-> [!NOTE]
-> A random collection of thoughts about problems. I find this subject quite interesting so I’m giving the title “v1”.
->
-> Cover photo by <a href="https://unsplash.com/@goyongsu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Dmitrii Ko</a> on <a href="https://unsplash.com/photos/a-neon-sign-that-says-houston-we-have-a-rocket-on-it-YFtze0r3ljs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+A random collection of thoughts about problems. I find this subject quite interesting so I’m giving the title “v1”.
+
+Cover photo by [Dmitrii Ko](https://unsplash.com/@goyongsu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-houston-we-have-a-rocket-on-it-YFtze0r3ljs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
       
 
 So you have an idea and want to create a business. Congrats!

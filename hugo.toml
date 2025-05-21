@@ -41,7 +41,7 @@ linkedin = "ricardorompar"
 [params.navItems]
 github = { href = "https://github.com/ricardorompar", target = "_blank", icon = "logo-github", title = "GitHub" }
 
-[markup]
+# [markup]
 [markup.goldmark.parser]
 wrapStandAloneImageWithinParagraph = false
 [markup.goldmark.parser.attribute]
@@ -55,3 +55,7 @@ block = [['\[', '\]'], ['$$', '$$']]
 inline = [['\(', '\)'], ['$', '$']]
 [markup.highlight]
 noClasses = false
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
