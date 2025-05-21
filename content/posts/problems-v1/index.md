@@ -20,10 +20,7 @@ draft: false
 ---
 
 A random collection of thoughts about problems. I find this subject quite interesting so I’m giving the title “v1”.
-
-Cover photo by [Dmitrii Ko](https://unsplash.com/@goyongsu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-houston-we-have-a-rocket-on-it-YFtze0r3ljs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
       
-
 So you have an idea and want to create a business. Congrats!
 
 You heard about this thing called AI and you want to make a business with it, awesome. You’re thinking about a chatbot or a LLM interface to identify the thoughts of your cat based on a picture of it. That’s a pretty solid idea.
@@ -109,3 +106,6 @@ It only took him 25 years to solve that problem. And when he did, he found himse
 <sub>Steve Jobs unveiling the first MacBook Air in 2008 by taking it out of an envelope. Screenshot taken from [this video](https://www.youtube.com/watch?v=EJqP8P0dh2o).</sub>
 
 If Steve Jobs being a genius and all could dedicate 25 years of his life to solving this one problem (and many more), why can't you and I dedicate just a few years to building something remarkable?
+
+
+Cover photo by [Dmitrii Ko](https://unsplash.com/@goyongsu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-neon-sign-that-says-houston-we-have-a-rocket-on-it-YFtze0r3ljs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
